@@ -33,15 +33,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayatiwari1602-alt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayatiwari1602-alt&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ## 🛠️ Skills
 
