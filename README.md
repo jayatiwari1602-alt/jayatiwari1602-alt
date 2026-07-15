@@ -18,6 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayatiwari1602-alt&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+
 ---
 
 ## 🌸 About Me
@@ -38,6 +39,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=jayatiwari1602-alt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jayatiwari1602-alt&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+</p>
 
 ## 🛠️ Skills
 
