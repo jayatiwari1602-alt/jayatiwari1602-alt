@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayatiwari1602-alt&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jayatiwari1602-alt&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ## 🛠️ Skills
