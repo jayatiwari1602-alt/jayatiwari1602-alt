@@ -1,31 +1,31 @@
 <h1 align="center">Hi 👋, I'm Jaya Tiwari</h1>
 
-<h3 align="center">💙 Frontend Web Developer | HTML • CSS • JavaScript Learner</h3>
+<h3 align="center">💻 Frontend Web Developer | HTML • CSS • JavaScript | C++ | Basic Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Building+Beautiful+Web+Experiences;Learning+Every+Day;Thanks+for+Visiting!+✨" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Frontend+Web+Developer;Always+Learning+New+Things;Building+Projects+with+Passion" />
 </p>
 
 ---
 
-## ✨ About
+## 🌸 About Me
 
-🌸 Passionate about creating clean and responsive websites.
+✨ Passionate about Frontend Web Development.
 
-💻 Currently improving my Frontend Development skills.
+🌱 Currently improving my JavaScript and Basic Python skills.
 
-📚 Learning new technologies and building practical projects.
+💻 I enjoy creating clean, responsive and user-friendly websites.
 
-🎯 Every project is a step towards becoming a better developer.
+🚀 Working on an Event Management System.
 
-🚀 Always curious, always learning.
+📍 Indore, Madhya Pradesh, India.
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,cpp,python,vscode" />
 </p>
 
 ---
@@ -33,16 +33,38 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jayatiwari1602-alt&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayatiwari1602-alt&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-<p align="center">
-✨ <b>Code • Learn • Create • Repeat</b> ✨
-</p>
+## 🔥 GitHub Streak
 
 <p align="center">
-💙 Thank you for visiting my profile. Have a wonderful day! 💙
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌟 Current Focus
+
+✔️ Building Frontend Projects
+
+✔️ Improving JavaScript Skills
+
+✔️ Learning Basic Python
+
+✔️ Exploring Git & GitHub
+
+---
+
+## 💡 Quote
+
+> *"Small progress every day leads to big success."* 🚀
+
+---
+
+<p align="center">
+⭐ Thank you for visiting my profile! ⭐
 </p>
