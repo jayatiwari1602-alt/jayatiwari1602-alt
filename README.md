@@ -1,70 +1,49 @@
 <h1 align="center">Hi 👋, I'm Jaya Tiwari</h1>
 
-<h3 align="center">💻 Frontend Web Developer | HTML • CSS • JavaScript | C++ | Basic Python</h3>
+<h3 align="center">💜 Frontend Web Developer | HTML • CSS • JavaScript | C++ | Basic Python</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Frontend+Web+Developer;Always+Learning+New+Things;Building+Projects+with+Passion" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+Jaya+Tiwari's+GitHub!;Frontend+Web+Developer;Learning+Every+Day;Building+Beautiful+Websites" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayatiwari1602-alt&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jayatiwari1602-alt&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayatiwari1602-alt&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🌸 About Me
 
-✨ Passionate about Frontend Web Development.
-
-🌱 Currently improving my JavaScript and Basic Python skills.
-
-💻 I enjoy creating clean, responsive and user-friendly websites.
-
-🚀 Working on an Event Management System.
-
-📍 Indore, Madhya Pradesh, India.
+- 💻 Frontend Web Development Enthusiast
+- 🌱 Learning JavaScript & Basic Python
+- 🚀 Currently working on an Event Management System
+- 📍 Indore, Madhya Pradesh, India
+- ✨ I enjoy building clean and responsive websites.
 
 ---
 
-## 💻 Languages & Tools
+## 🛠️ Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,cpp,python,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,cpp,python,vscode"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 My Goal
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jayatiwari1602-alt&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayatiwari1602-alt&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=jayatiwari1602-alt&theme=tokyonight"/>
-</p>
-
----
-
-## 🌟 Current Focus
-
-✔️ Building Frontend Projects
-
-✔️ Improving JavaScript Skills
-
-✔️ Learning Basic Python
-
-✔️ Exploring Git & GitHub
-
----
-
-## 💡 Quote
-
-> *"Small progress every day leads to big success."* 🚀
+To become a skilled developer by building real-world projects, learning consistently, and improving every day.
 
 ---
 
 <p align="center">
-⭐ Thank you for visiting my profile! ⭐
+✨ Thanks for visiting my profile! ✨
 </p>
