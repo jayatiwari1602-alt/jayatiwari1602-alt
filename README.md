@@ -1,33 +1,48 @@
 <h1 align="center">Hi 👋, I'm Jaya Tiwari</h1>
 
-<h3 align="center">💻 Frontend Web Developer | HTML • CSS • JavaScript Learner</h3>
+<h3 align="center">💙 Frontend Web Developer | HTML • CSS • JavaScript Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Frontend+Web+Developer;Learning+HTML,+CSS+and+JavaScript;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Building+Beautiful+Web+Experiences;Learning+Every+Day;Thanks+for+Visiting!+✨" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## ✨ About
 
-- 🌸 Name: *Jaya Tiwari*
-- 📍 Location: *Indore, Madhya Pradesh, India*
-- 💻 Learning *HTML, CSS and JavaScript*
-- 🚀 Currently working on *Event Management System*
-- 🌱 I enjoy building simple and responsive websites.
+🌸 Passionate about creating clean and responsive websites.
+
+💻 Currently improving my Frontend Development skills.
+
+📚 Learning new technologies and building practical projects.
+
+🎯 Every project is a step towards becoming a better developer.
+
+🚀 Always curious, always learning.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=jayatiwari1602-alt&show_icons=true&theme=tokyonight)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jayatiwari1602-alt&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayatiwari1602-alt&layout=compact&theme=tokyonight"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayatiwari1602-alt&layout=compact&theme=tokyonight)
+---
+
+<p align="center">
+✨ <b>Code • Learn • Create • Repeat</b> ✨
+</p>
+
+<p align="center">
+💙 Thank you for visiting my profile. Have a wonderful day! 💙
+</p>
