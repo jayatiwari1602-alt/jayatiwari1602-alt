@@ -42,7 +42,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=jayatiwari1602-alt&theme=tokyonight"/>
 </p>
 
 ---
